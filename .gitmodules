@@ -1,5 +1,3 @@
 [submodule "traccar-web"]
 	path = traccar-web
-	url = ../traccar-web.git
-	branch = master
-	ignore = all
+	url = https://github.com/Tech-Prescient/traccar-web-oceantrack.git
